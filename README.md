@@ -1,15 +1,16 @@
 ## Projeto landing page
 
 
-- Oque será desenvolvido?
-  - Neste repositorio dedico meu primeiro projeto elabordado com conhecimentos básicos de HTML CSS para desenvolver uma landing page. Projeto este que estarei desenvolvendo no meu curso de Javascript e typescript, que possue uma seção introdutória para quem jamais tinha visto front-end.
+### Oque será desenvolvido?
+> Neste repositorio dedico meu primeiro projeto elabordado com conhecimentos básicos de HTML CSS para desenvolver uma landing page. Projeto este que estarei desenvolvendo no meu curso de Javascript e typescript, que possue uma seção introdutória para quem jamais tinha visto front-end.
+
 
 - `Links Uteis:`
-  - `https://codepen.io/luizomf/full/KKNwMeG` --> Projeto final do professor Luiz Otávio.
-  - `https://github.com/luizomf/landing-page-cursojs` --> Repositorio projeto final do professor Luiz Otávio.
-  - `https://www.svgbackgrounds.com/#confetti-doodles` --> Onde pegamos o background de uma parte do projeto
-  - `https://achecks.org/checker/index.php` --> Site para checar sua acessibilidade do HTML escrito.
-  - `https://svgomg.net` --> Melhoria de SVG para nossos projetos
+  - [Projeto final do professor Luiz Otávio.](`https://codepen.io/luizomf/full/KKNwMeG`) 
+  - [Repositorio projeto final do professor Luiz Otávio.](`https://github.com/luizomf/landing-page-cursojs`) 
+  - [Onde pegamos o background de uma parte do projeto](`https://www.svgbackgrounds.com/#confetti-doodles`)  
+  - [Site para checar sua acessibilidade do HTML escrito.](`https://achecks.org/checker/index.php`)  
+  - [ Melhoria de SVG para nossos projetos](`https://svgomg.net`) 
 
 - `Observações`
   - Divididimos o CSS em vários arquivos para melhor escrita de código considerando também que é o meu primeiro projeto com front.
