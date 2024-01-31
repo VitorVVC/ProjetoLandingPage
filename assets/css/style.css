@@ -22,16 +22,16 @@
 
 .top3-content{
     max-width: 64rem;
-    height: 100vh;
     display: flex;
-    flex-flow: column wrap;
+    height: 100vh;
+    flex-flow: column nowrap;
     justify-content: center;
     text-align: center;
 }
 
 .grid-one-content{
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
     justify-content: center;
     min-height: 100vh;
 }
